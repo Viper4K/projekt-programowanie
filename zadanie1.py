@@ -1,4 +1,4 @@
-a = int(input("podaj pierwsza liczbe: "))
+a = int(input("podaj pierwsza liczbe: ")) #Byłem tu
 b = int(input("podaj druga liczbe: "))
 if (a < 0):
 	print("pierwsza liczba musi byc dodatnia!")
