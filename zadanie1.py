@@ -1,10 +1,10 @@
-a = int(input("podaj pierwsza liczbe: "))
-b = int(input("podaj druga liczbe: "))
-if (a < 0):
+x = int(input("podaj pierwsza liczbe: "))
+y = int(input("podaj druga liczbe: "))
+if (x < 0):
 	print("pierwsza liczba musi byc dodatnia!")
-if (b < 0):
+if (y < 0):
 	print("druga liczba musi byc dodatnia!")
 	
-for c in range(1, m):
-	if c % b == 0:
-		print(a)
+for z in range(1, m):
+	if z % y == 0:
+		print(x)
